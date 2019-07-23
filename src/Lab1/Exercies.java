@@ -1,6 +1,6 @@
 package Lab1;
-
-import java.util.Scanner;
+//testing upload to github
+        import java.util.Scanner;
 
 public class Exercies {
 
